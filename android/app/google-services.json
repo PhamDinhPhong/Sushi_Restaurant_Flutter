@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "981616933284",
+    "firebase_url": "https://ndp-sushi-restaurant-default-rtdb.firebaseio.com",
+    "project_id": "ndp-sushi-restaurant",
+    "storage_bucket": "ndp-sushi-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981616933284:android:7d5acf42d02533f33fe931",
+        "android_client_info": {
+          "package_name": "com.example.ndp_shushi_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWm8gQiPwjj4FvtcllryRQffUVOqaQ1tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981616933284:android:e612c471b27a57df3fe931",
+        "android_client_info": {
+          "package_name": "com.example.ndp_sushi_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWm8gQiPwjj4FvtcllryRQffUVOqaQ1tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
